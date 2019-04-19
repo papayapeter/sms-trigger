@@ -61,7 +61,7 @@ void setup()
 // loop
 void loop()
 {
-  // repeat every second
+  // repeat every 5 seconds
   if (timer.check())
   {
     sms_count = fona.getNumSMS();
