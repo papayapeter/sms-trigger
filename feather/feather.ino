@@ -1,7 +1,7 @@
-//papayapeter
-//2019
+// papayapeter
+// 2019
 //
-//if sms "on" is recieved -> led on; if "off" -> led off
+// if sms "on" is recieved -> led on; if "off" -> led off
 
 // libraries -----------------------------------------------
 #include <Metro.h>
